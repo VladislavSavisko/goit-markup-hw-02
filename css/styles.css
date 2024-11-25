@@ -119,11 +119,8 @@ ul {
     background-color: #F4F4FD;
 }
 
-.last-section {
+.last-section h2 {
     background-color: #FFFFFF;
-}
-
-.section-team {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
@@ -132,6 +129,7 @@ ul {
     color: #2e2f42;
     text-transform: capitalize;
 }
+
 
 .page-txt-bord {
     background-color: #FFFFFF;
