@@ -99,7 +99,10 @@ ul {
     margin-right: auto;
     border: none;
 }
-.button-focus,
+.button-order:focus {
+    background-color: #404BBF
+}
+
 .button-order:hover {
     background-color: #404BBF;
 }
@@ -120,7 +123,7 @@ ul {
     color: #434455;
 }
 
-.page-section-3 {
+.page-section-three {
     background-color: #F4F4FD;
 }
 
@@ -165,6 +168,7 @@ ul {
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    text-transform: capitalize;
 }
 
 .sec-main-txt {
