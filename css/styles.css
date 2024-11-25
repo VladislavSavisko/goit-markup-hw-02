@@ -37,7 +37,10 @@ ul {
     letter-spacing: 0.02em
 }
 
-.nav-link:focus,
+.nav-link:focus {
+    color: #404BBF;
+}
+
 .nav-link:hover {
     color: #404BBF;
 }
